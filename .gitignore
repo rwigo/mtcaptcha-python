@@ -1,5 +1,8 @@
 *.pyc
+__pycache__
 /.tox
+/.eggs
+/.pytest_cache
 
 .python-version
 .vscode
